@@ -1,2 +1,3 @@
 This is a new file in remote repository
 The new line in local
+The new line added in remote
