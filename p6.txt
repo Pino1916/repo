@@ -1,6 +1,1 @@
 This is a new file in remote repository
-The new line in local
-The new line added in remote
-The new 1st line in local
-The new 2nd line in local
-
